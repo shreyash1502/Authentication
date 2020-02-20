@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64094844231",
+    "firebase_url": "https://loginuikit-34646.firebaseio.com",
+    "project_id": "loginuikit-34646",
+    "storage_bucket": "loginuikit-34646.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64094844231:android:4f9f9bcf17c1b92edec862",
+        "android_client_info": {
+          "package_name": "creativeuiux.loginuikit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64094844231-bqie3rt0c4945c7iinikjpt7eq8oj9a8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "creativeuiux.loginuikit",
+            "certificate_hash": "420d50948dd6ebbe9075855180103143412a4db4"
+          }
+        },
+        {
+          "client_id": "64094844231-af55fg1mbm2dpg3cj22g6i5qbduibds7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKIbHdTjMXL3t27Hgl2lETFGZ7Fs1D9xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64094844231-af55fg1mbm2dpg3cj22g6i5qbduibds7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
